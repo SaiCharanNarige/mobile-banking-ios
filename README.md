@@ -131,3 +131,10 @@ This is a learning/portfolio prototype, not software for real banking. It has no
 **Validation completed:** all eight Python backend integration tests passed; project configuration and referenced files were checked. **Not run here:** iOS compilation, XCTest, simulator UI, VoiceOver, or device Keychain behavior, because this environment has no Xcode or Apple SDKs. Run the app and tests on your Mac before publishing verified functionality claims.
 
 Reference: [Apple Keychain accessibility](https://developer.apple.com/documentation/security/ksecattraccessiblewhenunlockedthisdeviceonly).
+
+
+## Screenshots
+
+| Sign in | Account overview |
+|---|---|
+| <img src="Screenshots/login.png" width="280" alt="Banking sign-in screen"> | <img src="Screenshots/overview.png" width="280" alt="Account summary and recent transactions"> |
